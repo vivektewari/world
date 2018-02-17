@@ -1,5 +1,6 @@
 #abilities:hearing, seeing, comprehending,walking,talking
 #hears :medium ,frequency,speeds
+#species1.1
 import numpy.random as rand
 import numpy as np
 from support import death
